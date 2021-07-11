@@ -1,0 +1,3 @@
+D:/workfile/SudokuSolutionBasedOnSAT/cmake-build-debug/CMakeFiles/SoukouSolutionBasedOnSAT.dir
+D:/workfile/SudokuSolutionBasedOnSAT/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/workfile/SudokuSolutionBasedOnSAT/cmake-build-debug/CMakeFiles/rebuild_cache.dir

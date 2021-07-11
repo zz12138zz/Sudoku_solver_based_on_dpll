@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/workfile/SudokuSolutionBasedOnSAT/def.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+math.h
+-
+string.h
+-
+
+D:/workfile/SudokuSolutionBasedOnSAT/main.c
+def.h
+D:/workfile/SudokuSolutionBasedOnSAT/def.h
+
